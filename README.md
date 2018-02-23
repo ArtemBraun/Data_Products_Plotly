@@ -1,4 +1,4 @@
-# Developing Data Products - Week 2 Assignment
+# Developing Data Products - Week 3 Assignment
 
 #### This Assignment is part of Developing Data Products Course by Coursera.
 
